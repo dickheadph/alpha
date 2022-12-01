@@ -2,7 +2,7 @@ function App() {
   return (
     <div className='App'>
       <h1 className='text-green-700 text-center font-bold text-5xl'>
-        Test App
+        Github Test
       </h1>
     </div>
   );
